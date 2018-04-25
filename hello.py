@@ -1,3 +1,5 @@
 print('小天才')
 print('小天才')
 print('小天才')
+print('大天才大天才')
+print('大天才大天才')
